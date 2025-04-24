@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Mihir-Bhasin
-- 👀 I’m interested in React.js, Machine Learning, Flask , and a Lot of Data Structures ,Algorithm and Computer Networking.
-- 🌱 I’m currently Computer Science Undergrad
-- 💞️ I’m looking to Work for great product based Companies and startups.
+- 🌱 I’m currently working at JPMorgan Chase & Co.
 - 📫 How to reach me - Linkedln, Twitter(@Mr_golem10).
 
 <!---
