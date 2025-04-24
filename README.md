@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mihir-Bhasin
 - 🌱 I’m currently working at JPMorgan Chase & Co.
-- 📫 How to reach me - Linkedln, Twitter(@Mr_golem10).
+- 📫 How to reach me - Linkedln.
 
 <!---
 Mihir-Bhasin/Mihir-Bhasin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
