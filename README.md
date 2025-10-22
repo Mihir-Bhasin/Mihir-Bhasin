@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mihir-Bhasin
-- 🌱 I’m currently working at JPMorgan Chase & Co.
+- 🌱 I’m currently working at LCP || ex JPMorgan Chase & Co.
 - 📫 How to reach me - Linkedln.
 
 <!---
